@@ -1,0 +1,8 @@
+words = {
+ "hola": "hello",
+
+}
+
+
+
+
